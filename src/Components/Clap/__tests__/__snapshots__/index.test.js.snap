@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clap should renders without crashing  1`] = `
+<DocumentFragment>
+  <img
+    alt="clap"
+    class="card-actions-icon"
+    height="25"
+    width="25"
+  />
+</DocumentFragment>
+`;

@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should renders without crashing  1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+    data-testid="blog-post"
+  >
+    <img
+      alt=""
+      class="card-img"
+    />
+    <p
+      class="card-meta-info card-padding"
+    >
+      <span />
+      <span />
+    </p>
+    <h3
+      class="card-title card-padding"
+    />
+    <p
+      class="card-content card-padding"
+    />
+    <div
+      class="vertical-spacer"
+    />
+    <hr
+      class="card-margin"
+    />
+    <div
+      class="card-padding card-actions"
+    >
+      <div
+        class="card-actions"
+        id="clap"
+      >
+        <img
+          alt="clap"
+          class="card-actions-icon"
+          height="25"
+          src="clapping.svg"
+          width="25"
+        />
+        <span />
+      </div>
+      <div
+        class="card-actions"
+        id="heart"
+      >
+        <img
+          alt="clap"
+          class="card-actions-icon"
+          height="25"
+          src="heart-black.svg"
+          width="25"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
